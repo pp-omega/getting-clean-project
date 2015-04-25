@@ -1,4 +1,4 @@
-#Project for "Getting and Cleaning Data" <Batch 12>
+#Project for "Getting and Cleaning Data" <April 2014>
 
 
 Project is how to Pre-process  "Human Activity Recognition Using Smartphones Data Set" to get tody Data set for further analysis
@@ -11,7 +11,8 @@ Data
 
 Package 
   - data.table
-  - 
+  - plyr
+  - dplyr
 
 **Program Execution:**
 
@@ -20,4 +21,4 @@ Package
 3. Execute [run_analysis.R](run_analysis.R)
 4. The [Tidy Result] will extract after program is [run_analysis.R](run_analysis.R)
 
-For furtherdefinition wecan look up at [CodeBook](CodeBook.md)
+For further definition wecan look up at [CodeBook](CodeBook.md)
